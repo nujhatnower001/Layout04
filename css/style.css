@@ -1,0 +1,54 @@
+h1{
+	text-align: center;
+}
+
+.header{
+	min-height: 100px;
+	background-color: red;
+
+}
+.box1{
+	overflow: hidden;
+}
+.box2{
+	overflow: hidden;
+}
+.box3{
+	overflow:hidden;
+}
+.box4{
+	overflow: hidden;
+
+}
+.smallbox1{
+	min-height: 200px;
+	width: 25%;
+	background-color:black;
+	float :left;
+}
+.smallbox2{
+	min-height: 200px;
+	width: 25%;
+	background-color:blue;
+	float :left;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.Bigbox1{
+	min-height: 500px;
+	width: 33.5%;
+	background-color: red;
+	float: left;
+}
+.Bigbox2{
+	min-height: 500px;
+	width: 33%;
+	background-color: pink;
+	float: left;
+}
+.footer{
+	background-color: violet;
+	height: 100px;
+}
